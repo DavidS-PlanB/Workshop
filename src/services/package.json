@@ -1,0 +1,12 @@
+{
+  "name": "customer-number-server.js",
+  "version": "1.0.0",
+  "description": "Repository für den Workshop über Web Anwendung \r fffff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type" : "module"
+}

@@ -1,0 +1,26 @@
+.header {
+    font-size: 50px;
+    color: red;
+}
+
+.Test {
+    color: blue;
+
+}
+
+.cards {
+    display: flex;
+}
+
+.box {
+    margin: 10px;
+    width: 200px;
+    color: black;
+    background-color: lightblue;
+    border: 2px solid black;
+    border-radius: 1em 1em 1em 1em;
+    margin: 20px auto;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+}
